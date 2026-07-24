@@ -1,0 +1,10 @@
+{
+  "name": "finn-loop-smoketest",
+  "version": "0.1.0",
+  "description": "Throwaway repo for smoke-testing the Finn loop (spec -> build -> review).",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
